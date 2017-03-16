@@ -16,4 +16,4 @@ var a = Test();
 console.log(a.amit);
 
 
-console.log('Kumar Talande');
+console.log('Amit Talande');
