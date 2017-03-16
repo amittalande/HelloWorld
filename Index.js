@@ -15,6 +15,6 @@ var a = Test();
 
 console.log(a.amit);
 
-console.log('Oh! God, I just did it.')
+console.log('Oh! God, I just did it.');
 
 console.log('Amit Talande');
